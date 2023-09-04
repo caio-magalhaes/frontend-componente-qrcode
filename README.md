@@ -1,0 +1,1 @@
+# frontend-componente-qrcode
